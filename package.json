@@ -1,0 +1,17 @@
+{
+  "name": "prueba-uni2",
+  "version": "1.0.0",
+  "description": "ejercicio de prebas unitarias",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Edith López",
+  "license": "ISC"
+}
