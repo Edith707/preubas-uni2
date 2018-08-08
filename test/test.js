@@ -9,3 +9,9 @@ describe("result", function(){
     });
 });
 
+describe("result", function(){
+    it("ingresar el costo de banquete para mas de 300 personas", function(){
+        var expected =   console.log("ingrese un dato valido")
+        var actual = banquete("klsd")
+    });
+});
